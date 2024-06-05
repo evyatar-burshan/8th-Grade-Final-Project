@@ -33,5 +33,5 @@ Then you'll need to make as much lemonade as you think customers will buy. Any l
 At the end of each day you'll get a summary of how the day went and will be able to buy upgrades.
 
 
-        ⚠️ ⚠️ ⚠️  PLEASE NOTICE ⚠️ ⚠️ ⚠️ 
-you will NOT be able to buy more stock or change the recipe during the day. So make sure you don't give anyone diabetes and let's start!
+                                                ⚠️ ⚠️ ⚠️  PLEASE NOTICE ⚠️ ⚠️ ⚠️ 
+        you will NOT be able to buy more stock or change the recipe during the day. So make sure you don't give anyone diabetes and let's start!
